@@ -1,0 +1,14 @@
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+The arrays in this program have to be declared to hold 10 elements because there are 10 value of the day to store. Therefore everyday temperature will be stored in a specific index.
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays? 
+Advantages:
+_ Convenient way of storing data
+_ We can know numbers off elements in it
+_ Easy to locate of variable
+_ Iterating the arrays using the index is faster than other methods such as linked list etc.
+Disavantages:
+_ Cannot altwe the size of array once array is declared.
+_ Cannot see its compile so get time to identify whenever there are errors.
+_ Need more memory.
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?  
+ It is not really easy. Because I find it different when I declare the variable in the do while. Moreover it is quite complicated to caculate the average one.

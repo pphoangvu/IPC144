@@ -1,0 +1,10 @@
+1)	Name all the iteration constructs. 
+Iteration constructs are 
+_ while
+_ do white
+_ for
+2)	In two or three sentences explain the difference between a “do while” and a 
+“while” loop? 
+The "while" loop will executes the sequence after checking if the condition is true. The "do while" executes the sequence before checking whether the condition is true. 
+3)	In two or three sentences explain what is meant by the term conditional expression?  
+It is shorthand for the alternative path construct. Moreover it's a aspect of a programming language, which perform different computations.

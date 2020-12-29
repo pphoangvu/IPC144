@@ -1,0 +1,3 @@
+﻿  emp_athome.c
+e:\ipc144\ws05\at_home\emp_athome.c(32): warning C4101: 'matchingid': unreferenced local variable
+  at_home.vcxproj -> E:\IPC144\WS05\at_home\Debug\at_home.exe

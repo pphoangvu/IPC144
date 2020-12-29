@@ -1,0 +1,4 @@
+﻿  temps2.c
+e:\ipc144\ws04\at_home\temps2.c(85): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+e:\ipc144\ws04\at_home\temps2.c(86): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+  at_home.vcxproj -> E:\IPC144\WS04\at_home\Debug\at_home.exe

@@ -1,0 +1,5 @@
+﻿  cashRegister.c
+e:\ipc144\ws02\at_home\cashregister.c(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ipc144\ws02\at_home\cashregister.c(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\ipc144\ws02\at_home\cashregister.c(32): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  at_home.vcxproj -> E:\IPC144\WS02\at_home\Debug\at_home.exe

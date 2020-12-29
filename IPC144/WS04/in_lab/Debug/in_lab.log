@@ -1,0 +1,3 @@
+﻿  temps2.c
+e:\ipc144\ws04\in_lab\temps2.c(74): warning C4013: 'exit' undefined; assuming extern returning int
+  in_lab.vcxproj -> E:\IPC144\WS04\in_lab\Debug\in_lab.exe
